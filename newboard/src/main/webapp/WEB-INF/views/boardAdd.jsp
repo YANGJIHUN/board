@@ -14,6 +14,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 	//제이쿼리 사용
+	//github test..
 	$(document).ready(function(){
 		//alert('jquery test');
 		/* 입력폼 유효성 관련 요구사항
